@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yilvyangguang.sunshinepubwel",
+    "sha256_cert_fingerprints":
+    ["B4:E5:D5:90:9F:FA:AD:18:A0:D6:8A:8A:09:30:A9:6A:AF:C6:A6:91:4B:76:8E:14:71:BD:39:BD:69:42:83:85"]
+  }
+}]
